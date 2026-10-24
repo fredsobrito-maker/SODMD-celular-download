@@ -16,12 +16,20 @@
 
 | Seu aparelho | Arquivo | Tamanho |
 |---|---|---|
-| 🤖 **Android** 7.0 ou mais novo | [**SODMD-1.4.apk**](https://github.com/fredsobrito-maker/SODMD-celular-download/releases/download/v1.4/SODMD-1.4.apk) | 828 KB |
+| 🤖 **Android** 7.0 ou mais novo | [**SODMD-1.5.apk**](https://github.com/fredsobrito-maker/SODMD-celular-download/releases/download/v1.5/SODMD-1.5.apk) | 789 KB |
 
 Versões anteriores e a lista de novidades estão em
 [**Todas as versões**](https://github.com/fredsobrito-maker/SODMD-celular-download/releases).
 
-## ✨ Novidades da 1.4
+## ✨ Novidades da 1.5
+
+- **Figuras restritas a dois tipos:** plano cartesiano e **diagrama de corpo livre** (novo).
+  No diagrama, cada força é informada por módulo e ângulo (ou por componentes) e o app desenha
+  as setas, com resultante, componentes, eixos e ângulos quando o plano pedir.
+  Os outros tipos de figura (espelhos, lentes, hidrostática, eletromagnetismo, circuitos e
+  ondulatória) foram removidos. O formato está em [`docs/blocos-figura.md`](docs/blocos-figura.md).
+
+## Novidades da 1.4
 
 - **Mais figuras nos planos de aula**, todas desenhadas no celular, sem internet, com os
   valores calculados pelo próprio app: lentes esféricas, hidrostática (coluna de líquido,
